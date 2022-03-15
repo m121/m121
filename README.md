@@ -1,4 +1,29 @@
-### Hi there 👋
+# Hi, I'm Mateo FrontEnd developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+
+   - 🎓 I am currently learning about Web3, I am really interested in learn about DAOs.
+   - 🔭 I am co-founder of my web agency Starship studio.
+   - 🎯 My Goal is to share my knowledge with everyone and create amazing products.
+   - ✨ I love to create new products, I love being an entrepreneur.
+
+### Tech Stack
+  - Nextjs
+  - TailwindCss
+  - Javascript
+  - Solidity
+
+### Portfolio webpages
+  - https://exampleoneweb3.vercel.app/
+  - https://thestarshipstudio.com/
+  - https://canadacurriculum.net/es
+  - https://minegocioqr.com/
+  - https://bioeticaderecho.com/
+  - https://dharmacreativ.com/
+  - https://gymexample1.vercel.app/
+
+
+
+
 
 <!--
 **m121/m121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
