@@ -21,6 +21,9 @@
   - https://dharmacreativ.com/
   - https://gymexample1.vercel.app/
 
+### Web3 projects
+  - https://solana-nft-example-two.vercel.app/
+
 
 
 
