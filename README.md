@@ -21,8 +21,12 @@
   - https://dharmacreativ.com/
   - https://gymexample1.vercel.app/
 
-### Web3 projects
+### Web3 UI projects
+ - https://exampleoneweb3.vercel.app/
+
+### Web3 full projects
   - https://solana-nft-example-two.vercel.app/
+  - https://solana-pay-starter-nine.vercel.app/
 
 
 
