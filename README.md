@@ -23,6 +23,7 @@
 
 ### Web3 UI projects
  - https://exampleoneweb3.vercel.app/
+ - https://solarpunkui.vercel.app/
 
 ### Web3 full projects
   - https://solana-nft-example-two.vercel.app/
