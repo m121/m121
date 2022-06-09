@@ -6,13 +6,13 @@
    - 🎯 My Goal is to share my knowledge with everyone and create amazing products.
    - ✨ I love to create new products, I love being an entrepreneur.
 
-### Tech Stack
+## Tech Stack
   - Nextjs
   - TailwindCss
   - Javascript
   - Solidity
 
-### Portfolio webpages
+## Portfolio webpages
   - https://exampleoneweb3.vercel.app/
   - https://thestarshipstudio.com/
   - https://canadacurriculum.net/es
@@ -21,13 +21,16 @@
   - https://dharmacreativ.com/
   - https://gymexample1.vercel.app/
 
-### Web3 UI projects
+## Web3 UI projects
  - https://exampleoneweb3.vercel.app/
  - https://solarpunkui.vercel.app/
 
-### Web3 full projects
+## Web3 full projects
+  ### Solana
   - https://solana-nft-example-two.vercel.app/
   - https://solana-pay-starter-nine.vercel.app/
+  ### Ethereum
+  - https://nftetherum.vercel.app/
 
 
 
