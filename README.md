@@ -20,6 +20,7 @@
   - https://bioeticaderecho.com/
   - https://dharmacreativ.com/
   - https://gymexample1.vercel.app/
+  - https://swayed.io/
 
 ## Web3 UI projects
  - https://exampleoneweb3.vercel.app/
