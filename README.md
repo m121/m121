@@ -25,6 +25,7 @@
 ## Web3 UI projects
  - https://exampleoneweb3.vercel.app/
  - https://solarpunkui.vercel.app/
+ - https://thayercoin.io/
 
 ## Web3 full projects
   ### Solana
