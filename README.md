@@ -36,6 +36,12 @@
   ### NFT ERC1155 Ethereum
   - https://nftc-lub-erc-1155.vercel.app/
 
+## Other projects
+   ### TailwindCSS components
+   - https://tailwindcomponents.com/u/mateom147
+   ### Collection of resources to create websites
+   - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
+
 
 
 
