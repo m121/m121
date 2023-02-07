@@ -1,14 +1,14 @@
 # Hi, I'm Mateo FrontEnd developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-   - 🎓 I am currently learning about Web3, I am really interested in learn about DAOs.
+   - 🎓 I am currently learning about Web3, I am really interested in learn about Solana.
    - 🔭 I am co-founder of my web agency Starship studio.
    - 🎯 My Goal is to share my knowledge with everyone and create amazing products.
    - ✨ I love to create new products, I love being an entrepreneur.
 
 ## Tech Stack
   - Nextjs
-  - TailwindCss
+  - TailwindCSS
   - Javascript
   - Solidity
 
@@ -17,7 +17,6 @@
   - https://thestarshipstudio.com/
   - https://canadacurriculum.net/es
   - https://minegocioqr.com/
-  - https://bioeticaderecho.com/
   - https://dharmacreativ.com/
   - https://gymexample1.vercel.app/
   - https://swayed.io/
@@ -25,7 +24,6 @@
 ## Web3 UI projects
  - https://exampleoneweb3.vercel.app/
  - https://solarpunkui.vercel.app/
- - https://thayercoin.io/
 
 ## Web3 full projects
   ### Solana
@@ -41,6 +39,8 @@
    - https://tailwindcomponents.com/u/mateom147
    ### Collection of resources to create websites
    - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
+   ### Web3 Text gradient generator
+   - https://web3textgradientgenerator.vercel.app/
 
 
 
