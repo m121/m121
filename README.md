@@ -13,10 +13,10 @@
   - Solidity
 
 ## As an indie entrepreneur
-   -https://pixwebagency.vercel.app/
-   -https://marketingempleos.lat/
-   -WebTree
-   -https://minegocioqr.com/
+   - https://pixwebagency.vercel.app/
+   - https://marketingempleos.lat/
+   - WebTree
+   - https://minegocioqr.com/
 
 ## Portfolio webpages
   - https://exampleoneweb3.vercel.app/
