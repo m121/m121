@@ -38,7 +38,7 @@
   - https://www.monbusinessdesign.com/
   - https://incolsur.com/
   - Beirut Restaurant
-  - 
+  - Divanga Hostel 
 
 ## Web3 UI projects
  - https://exampleoneweb3.vercel.app/
