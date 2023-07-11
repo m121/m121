@@ -11,12 +11,19 @@
   - TailwindCSS
   - Javascript
   - Solidity
+  - TypeScript
 
 ## As an indie entrepreneur
+   - https://web3landings.lemonsqueezy.com/
    - https://pixwebagency.vercel.app/
    - https://marketingempleos.lat/
    - WebTree
    - https://minegocioqr.com/
+   - Delacalle App
+   - HomIn
+   - MVP Maker
+   - https://shiivi.vercel.app/
+   - buenapeople
 
 ## Portfolio webpages
   - https://exampleoneweb3.vercel.app/
@@ -27,9 +34,16 @@
   - https://gymexample1.vercel.app/
   - https://swayed.io/
 
+## Wordpress
+  - https://www.monbusinessdesign.com/
+  - https://incolsur.com/
+  - Beirut Restaurant
+  - 
+
 ## Web3 UI projects
  - https://exampleoneweb3.vercel.app/
  - https://solarpunkui.vercel.app/
+ - https://cyberpunkcity.vercel.app/
 
 ## Web3 full projects
   ### Solana
