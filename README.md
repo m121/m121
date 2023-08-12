@@ -1,10 +1,10 @@
 # Hi, I'm Mateo FrontEnd developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-   - 🎓 I am currently learning about Web3, I am really interested in learn about Solana.
-   - 🔭 I am co-founder of my web agency Starship studio.
+   - 🎓 I am currently learning about Web3.
+   - 🔭 I am Frontend Freelancer.
    - 🎯 My Goal is to share my knowledge with everyone and create amazing products.
-   - ✨ I love to create new products, I love being an entrepreneur.
+   - ✨ I love to create new products, I love being an entrepreneur, from Colombia.
 
 ## Tech Stack
   - Nextjs
@@ -12,6 +12,7 @@
   - Javascript
   - Solidity
   - TypeScript
+  - Firebase
 
 ## As an indie entrepreneur
    - https://web3landings.lemonsqueezy.com/
@@ -51,6 +52,7 @@
   - https://solana-pay-starter-nine.vercel.app/
   ### Ethereum
   - https://nftetherum.vercel.app/
+  - https://github.com/m121/ethereumtracker
   ### NFT ERC1155 Ethereum
   - https://nftc-lub-erc-1155.vercel.app/
 
