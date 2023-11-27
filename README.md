@@ -1,7 +1,7 @@
-# Hi, I'm Mateo Full stac developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Mateo Full stack developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-   - 🎓 I am currently learning about Web3
+   - 🎓 I am currently learning about AI
    - 🔭 I am a Full stack Freelancer
    - 🎯 My Goal is to share my knowledge with everyone and create unique and efficient products
    - ✨ I love to create as an entrepreneur, and am always up for a new challenge
@@ -13,6 +13,7 @@
   - Solidity
   - TypeScript
   - Firebase
+  - Nodejs
 
 ## As an indie entrepreneur
    - https://web3landings.lemonsqueezy.com/
