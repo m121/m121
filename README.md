@@ -19,6 +19,7 @@
    - https://web3landings.lemonsqueezy.com/
    - https://pixwebagency.vercel.app/
    - https://marketingempleos.lat/
+   - https://serviciosdigitales.vercel.app/
    - WebTree
    - https://minegocioqr.com/
    - Delacalle App
