@@ -16,7 +16,7 @@
   - Nodejs
 
 ## As an indie entrepreneur
-   - https://web3landings.lemonsqueezy.com/
+   - https://emailgenerator.lat/    (beta) 
    - https://pixwebagency.vercel.app/
    - https://marketingempleos.lat/
    - https://serviciosdigitales.vercel.app/
