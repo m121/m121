@@ -1,22 +1,28 @@
 # Hi, I'm Mateo Full stack developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-   - 🎓 I am currently learning about AI
-   - 🔭 I am a Full stack Freelancer
-   - 🎯 My Goal is to share my knowledge with everyone and create unique and efficient products
-   - ✨ I love to create as an entrepreneur, and am always up for a new challenge
+With over 8 years of experience as a programmer, I have built a robust track record in developing mobile applications, web apps, and websites, distinguishing myself through effective team leadership. My expertise extends to thriving in startup environments, where I have contributed to the success of innovative projects.
 
+As a technology enthusiast, I am consistently staying updated to remain at the forefront of the latest trends. My ability to adapt quickly to technological changes has enabled me to proactively tackle challenges and deliver efficient solutions.
+
+Throughout my career, I have showcased strong leadership skills, collaborating with multidisciplinary teams to achieve ambitious goals. My focus extends beyond technical development, as I am committed to excellence and innovation in every project.
+
+I am seeking opportunities that challenge me and allow for continued professional growth, where I can leverage my experience and leadership skills to contribute to teams passionate about technology and innovation.
 ## Tech Stack
+
   - Nextjs
   - TailwindCSS
   - Javascript
   - Solidity
   - TypeScript
   - Firebase
-  - Nodejs
+  - Supabase
+  - Prisma
+  - Reactjs
 
-## As an indie entrepreneur
-   - https://emailgenerator.lat/    (beta) 
+
+## Personal projects
+   - https://emailgenerator.lat/   
    - https://pixwebagency.vercel.app/
    - https://marketingempleos.lat/
    - https://serviciosdigitales.vercel.app/
@@ -26,9 +32,19 @@
    - HomIn
    - MVP Maker
    - https://shiivi.vercel.app/
-   - buenapeople
+   - buenapeople - Startup
+   - https://tailwindcomponents.com/u/mateom147
+   - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
 
-## Portfolio webpages
+## Web freelancer
+   ### Wordpress
+  - https://www.monbusinessdesign.com/
+  - https://incolsur.com/
+  - Beirut Restaurant
+  - Divanga Hostel
+  - https://bcreativelabs.com/
+  - https://rollinkitchens.com/
+    ### Nextjs
   - https://exampleoneweb3.vercel.app/
   - https://thestarshipstudio.com/
   - https://canadacurriculum.net/es
@@ -37,21 +53,9 @@
   - https://gymexample1.vercel.app/
   - https://swayed.io/
 
-## Wordpress
-  - https://www.monbusinessdesign.com/
-  - https://incolsur.com/
-  - Beirut Restaurant
-  - Divanga Hostel
-  - https://bcreativelabs.com/
-  - https://rollinkitchens.com/
 
-## Web3 UI projects
- - https://exampleoneweb3.vercel.app/
- - https://solarpunkui.vercel.app/
- - https://cyberpunkcity.vercel.app/
-
-## Web3 full projects
-  ### Solana
+## Web3 Projects
+ ### Solana
   - https://solana-nft-example-two.vercel.app/
   - https://solana-pay-starter-nine.vercel.app/
   ### Ethereum
@@ -60,14 +64,12 @@
   - https://github.com/m121/polygondappstore
   ### NFT ERC1155 Ethereum
   - https://nftc-lub-erc-1155.vercel.app/
-
-## Other projects
-   ### TailwindCSS components
-   - https://tailwindcomponents.com/u/mateom147
-   ### Collection of resources to create websites
-   - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
-   ### Web3 Text gradient generator
-   - https://web3textgradientgenerator.vercel.app/
+  ### Landings Web3
+ - https://exampleoneweb3.vercel.app/
+ - https://solarpunkui.vercel.app/
+ - https://cyberpunkcity.vercel.app/
+  ### Tools
+ - https://web3textgradientgenerator.vercel.app/
 
 
 
