@@ -1,4 +1,4 @@
-# Hi, I'm Mateo Full stack developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Mateo Full Frontend developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 With over 8 years of experience as a programmer, I have built a robust track record in developing mobile applications, web apps, and websites, distinguishing myself through effective team leadership. My expertise extends to thriving in startup environments, where I have contributed to the success of innovative projects.
