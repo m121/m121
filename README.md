@@ -19,6 +19,9 @@ I am seeking opportunities that challenge me and allow for continued professiona
   - Supabase
   - Prisma
   - Reactjs
+  - Shopify Headless
+  - GraphQL
+  - Builder.io
 
 
 ## Personal projects
