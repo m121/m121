@@ -40,13 +40,7 @@ I am seeking opportunities that challenge me and allow for continued professiona
    - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
 
 ## Web freelancer
-   ### Wordpress
-  - https://www.monbusinessdesign.com/
-  - https://incolsur.com/
-  - Beirut Restaurant
-  - Divanga Hostel
-  - https://bcreativelabs.com/
-  - https://rollinkitchens.com/
+
     ### Nextjs
   - https://exampleoneweb3.vercel.app/
   - https://thestarshipstudio.com/
@@ -56,21 +50,6 @@ I am seeking opportunities that challenge me and allow for continued professiona
   - https://gymexample1.vercel.app/
   - https://swayed.io/
 
-
-## Web3 Projects
- ### Solana
-  - https://solana-nft-example-two.vercel.app/
-  - https://solana-pay-starter-nine.vercel.app/
-  ### Ethereum
-  - https://nftetherum.vercel.app/
-  - https://github.com/m121/ethereumtracker
-  - https://github.com/m121/polygondappstore
-  ### NFT ERC1155 Ethereum
-  - https://nftc-lub-erc-1155.vercel.app/
-  ### Landings Web3
- - https://exampleoneweb3.vercel.app/
- - https://solarpunkui.vercel.app/
- - https://cyberpunkcity.vercel.app/
   ### Tools
  - https://web3textgradientgenerator.vercel.app/
 
