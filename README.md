@@ -1,19 +1,18 @@
 # Hi, I'm Mateo Full Frontend developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-With over 8 years of experience as a programmer, I have built a robust track record in developing mobile applications, web apps, and websites, distinguishing myself through effective team leadership. My expertise extends to thriving in startup environments, where I have contributed to the success of innovative projects.
+I am currently a Frontend Developer at Seeed, where I design and build modern ecommerce solutions using technologies such as Headless, TypeScript, Next.js, TailwindCSS, and Shopify. My focus is on delivering efficient, scalable interfaces that enhance user experience in digital products.
 
-As a technology enthusiast, I am consistently staying updated to remain at the forefront of the latest trends. My ability to adapt quickly to technological changes has enabled me to proactively tackle challenges and deliver efficient solutions.
+In parallel, I am working to transition my career toward integrating artificial intelligence into technology projects. I’m actively learning and experimenting with AI agents, Model Context Protocol (MCP), memory management, and intelligent workflows, leveraging frameworks such as Mastra.ai and Vercel AI SDK.
 
-Throughout my career, I have showcased strong leadership skills, collaborating with multidisciplinary teams to achieve ambitious goals. My focus extends beyond technical development, as I am committed to excellence and innovation in every project.
+I am passionate about deeply exploring various design patterns for agent orchestration, different evaluation testing for AI agents(Evals) , and optimizing memory management in agents.
 
-I am seeking opportunities that challenge me and allow for continued professional growth, where I can leverage my experience and leadership skills to contribute to teams passionate about technology and innovation.
+I am seeking professional opportunities focused exclusively on artificial intelligence, where I can grow as an AI developer or AI engineer and contribute to building robust agent workflows and orchestration patterns.
 ## Tech Stack
 
   - Nextjs
   - TailwindCSS
   - Javascript
-  - Solidity
   - TypeScript
   - Firebase
   - Supabase
@@ -22,6 +21,8 @@ I am seeking opportunities that challenge me and allow for continued professiona
   - Shopify Headless
   - GraphQL
   - Builder.io
+  - Mastra
+  - Vercel AI SDK
 
 
 ## Personal projects
@@ -29,12 +30,7 @@ I am seeking opportunities that challenge me and allow for continued professiona
    - https://pixwebagency.vercel.app/
    - https://marketingempleos.lat/
    - https://serviciosdigitales.vercel.app/
-   - WebTree
    - https://minegocioqr.com/
-   - Delacalle App
-   - HomIn
-   - MVP Maker
-   - https://shiivi.vercel.app/
    - buenapeople - Startup
    - https://tailwindcomponents.com/u/mateom147
    - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
