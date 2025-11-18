@@ -33,7 +33,6 @@ I am seeking professional opportunities focused exclusively on artificial intell
    - https://minegocioqr.com/
    - buenapeople - Startup
    - https://tailwindcomponents.com/u/mateom147
-   - https://www.notion.so/buildwebsitesiseasy/Build-websites-is-easy-b3b8bf99c19a40f9928a936858fae416
 
 ## Web freelancer
 
