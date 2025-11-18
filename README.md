@@ -8,6 +8,8 @@ In parallel, I am working to transition my career toward integrating artificial 
 I am passionate about deeply exploring various design patterns for agent orchestration, different evaluation testing for AI agents(Evals) , and optimizing memory management in agents.
 
 I am seeking professional opportunities focused exclusively on artificial intelligence, where I can grow as an AI developer or AI engineer and contribute to building robust agent workflows and orchestration patterns.
+
+On this GitHub profile, I am actively experimenting with AI agent concepts and sharing related projects.
 ## Tech Stack
 
   - Nextjs
