@@ -1,55 +1,38 @@
-# Hi, I'm Mateo Full Frontend developer here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Mateo | AI Orchestrator & Technical Strategist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+I am a Technical Lead transitioning from high-performance Frontend Architecture to **Agentic Workflows and AI Implementation**. My mission is to bridge the gap between complex AI models and scalable, production-ready business solutions.
 
 
-I am currently a Frontend Developer at Seeed, where I design and build modern ecommerce solutions using technologies such as Headless, TypeScript, Next.js, TailwindCSS, and Shopify. My focus is on delivering efficient, scalable interfaces that enhance user experience in digital products.
+## 🎯 Focus & Specialization
+I specialize in the design and orchestration of **AI Agents**, leveraging the latest patterns in memory management, tool calling, and evaluation.
 
-In parallel, I am working to transition my career toward integrating artificial intelligence into technology projects. I’m actively learning and experimenting with AI agents, Model Context Protocol (MCP), memory management, and intelligent workflows, leveraging frameworks such as Mastra.ai and Vercel AI SDK.
+* **Google Cloud Specialist:** Completed **5 Advanced Skill Badges in Vertex AI**, covering Model Monitoring, Generative AI Studio, and AI Infrastructure.
+* **Agentic Architect:** Deeply experienced in **Mastra.ai** (Agent Orchestration) and **Model Context Protocol (MCP)** to build autonomous, context-aware systems.
+* **Decision-Driven Development:** Moving beyond simple prompting into **Intelligent Workflows** and **Agent Evals** to ensure reliability in production.
 
-I am passionate about deeply exploring various design patterns for agent orchestration, different evaluation testing for AI agents(Evals) , and optimizing memory management in agents.
+---
 
-I am seeking professional opportunities focused exclusively on artificial intelligence, where I can grow as an AI developer or AI engineer and contribute to building robust agent workflows and orchestration patterns.
+## 🛠️ AI Technical Stack
+* **Orchestration:** Mastra.ai, Vercel AI SDK, LangChain.
+* **Cloud & Infra:** Google Cloud Platform (Vertex AI, Gen AI Studio), Firebase, Supabase.
+* **Core Tech:** TypeScript, Next.js (App Router), TailwindCSS, GraphQL.
+* **AI Patterns:** RAG (Retrieval-Augmented Generation), Memory Management, Tool Use/Function Calling, Agentic Evals.
 
-On this GitHub profile, I am actively experimenting with AI agent concepts and sharing related projects.
-## Tech Stack
+---
 
-  - Nextjs
-  - TailwindCSS
-  - Javascript
-  - TypeScript
-  - Firebase
-  - Supabase
-  - Prisma
-  - Reactjs
-  - Shopify Headless
-  - GraphQL
-  - Builder.io
-  - Mastra
-  - Vercel AI SDK
+## 📚 Currently & Learning
+* 🎓 **Preparing for Google Cloud Gen AI Digital Leader Certification.**
+* 🧠 Deep diving into advanced **Memory Architectures** for long-term agent retention.
+* 🧪 Experimenting with **MCP (Model Context Protocol)** to standardize agent-tool communication.
+
+---
+
+## 💼 Let's Build the Future
+I am seeking opportunities where I can lead or contribute to **AI Engineering** teams. I don't just "use" AI; I design the systems that make AI efficient, safe, and scalable for real-world business impact.
 
 
-## Personal projects
-   - https://emailgenerator.lat/   
-   - https://pixwebagency.vercel.app/
-   - https://marketingempleos.lat/
-   - https://serviciosdigitales.vercel.app/
-   - https://minegocioqr.com/
-   - buenapeople - Startup
-   - https://tailwindcomponents.com/u/mateom147
 
-## Web freelancer
-
-    ### Nextjs
-  - https://exampleoneweb3.vercel.app/
-  - https://thestarshipstudio.com/
-  - https://canadacurriculum.net/es
-  - https://minegocioqr.com/
-  - https://dharmacreativ.com/
-  - https://gymexample1.vercel.app/
-  - https://swayed.io/
-
-  ### Tools
- - https://web3textgradientgenerator.vercel.app/
-
+---
 
 
 
